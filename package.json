@@ -1,0 +1,23 @@
+{
+    "name": "reboot",
+    "description": "Reboot at a specific time",
+    "version": "1.0.0",
+    "dependencies": {
+        "reboot":""
+        ,"moment":""
+    },
+    "main": "reboot.js",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RickyVaughn2/nodeJS-reboot"
+    },
+    "keywords": [],
+    "author": "rickyvaughn2",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RickyVaughn2/nodeJS-reboot/issues"
+    },
+    "homepage": "https://github.com/RickyVaughn2/nodeJS-reboot"
+}
